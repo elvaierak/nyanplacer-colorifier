@@ -2,7 +2,7 @@
   "name": "@akarim/nyanplacer-colorifier",
   "description": "Replaces provided words in string with html span tags.",
   "main": "dist/nyanplacer-colorifier.js",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "license": "MIT",
   "author": "Akarim <akari.miyanaka@protonmail.com>",
   "repository": {

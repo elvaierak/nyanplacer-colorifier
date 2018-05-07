@@ -5,6 +5,7 @@
 ```js
 import makeColorifier from '@akarim/nyanplacer-colorifier'
 
-let colorify = makeColorifier()
-colorify(['const'], 'const a = 1')
+const colorify = makeColorifier()
+const colored = colorify(['const'], 'const a = 1')
+console.log(colored)
 ```
